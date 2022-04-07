@@ -1,0 +1,18 @@
+body{
+    background-color: #FFD36E;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 2px 5px #99FFCD; 
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 2px 5px #99FFCD;
+}
+
+
